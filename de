@@ -2,7 +2,7 @@
         var NepPlayer = "#emulator_player615b0dcd23b85";
         var NepEmu = "snes";
         var NepLang = "en";
-        var gameUrl = "https://myemulator.online/wp-content/uploads/2017/08/snessmworld.zip";
+        var gameUrl = "https://bunrum.github.io/neptunJSforGoogleSites/Super%20Mario%20World.smc";
         var NepAutoStart = true;
         var NepMaxWidth = "640px";
         var NepMaxHeight = "480px";
