@@ -5,10 +5,10 @@
         var NepPlayer = "#fr";
         var NepEmu = "snes";
         var NepLang = "en";
-        var gameUrl = "https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=600&container=enterprise/https://bunrum.github.io/neptunJSforGoogleSites/Super%20Mario%20World.smc";
+        var gameUrl = "https://bunrum.github.io/neptunJSforGoogleSites/Super%20Mario%20World.smc";
         var NepAutoStart = true;
         var NepMaxWidth = "640px";
         var NepMaxHeight = "480px";
 </script>
 
-<script src="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=600&container=enterprise/https://bunrum.github.io/neptunJSforGoogleSites/njsLoader.js" type="text/javascript"></script>
+<script src="https://mem.neptunjs.com/njs/njsLoader.js" type="text/javascript"></script>
