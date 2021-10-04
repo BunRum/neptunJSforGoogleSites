@@ -1,1 +1,11 @@
-<script src="https://mem.neptunjs.com/njs/njsLoader.js" type="text/javascript"> //NeptunJS lib
+<script type="text/javascript">
+        var NepPlayer = "#emulator_player615b0dcd23b85";
+        var NepEmu = "snes";
+        var NepLang = "en";
+        var gameUrl = "https://myemulator.online/wp-content/uploads/2017/08/snessmworld.zip";
+        var NepAutoStart = true;
+        var NepMaxWidth = "640px";
+        var NepMaxHeight = "480px";
+</script>
+
+<script src="https://mem.neptunjs.com/njs/njsLoader.js" type="text/javascript">
