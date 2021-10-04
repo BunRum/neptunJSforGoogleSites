@@ -2,7 +2,7 @@
 
 </script>
 <script type="text/javascript">
-        var NepPlayer = "#emulator_player615b0dcd23b85";
+        var NepPlayer = "#fr";
         var NepEmu = "snes";
         var NepLang = "en";
         var gameUrl = "https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=600&container=enterprise/https://bunrum.github.io/neptunJSforGoogleSites/Super%20Mario%20World.smc";
